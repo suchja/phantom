@@ -1,6 +1,6 @@
 # Site Settings
 title: "LernMoment - Die Akademie"
-description: "Vom Anfänger zum Profi mit Übungen, Tutorials, Kursen und Trainings."
+description: "Vom Anfänger zum Profi in professioneller Softwareentwicklung mit Übungen, Tutorials, Kursen und Trainings."
 url: 'https://suchja.github.io/' # the base hostname & protocol for your site
 nav: "true"
 footer_text: 'no copyright'
@@ -9,6 +9,6 @@ github: 'lernmoment'
 medium: 'medium.com/@LernMoment'
 
 # Admin Settings
-admin_name: 'Jan Suchotzki'
+admin_name: 'LernMoment'
 admin_email: 'jan@lernmoment.de'
 google_analytics: "UA-9999999-99" # Update with your own tracking ID
