@@ -5,8 +5,8 @@ url: 'https://suchja.github.io/' # the base hostname & protocol for your site
 nav: "true"
 footer_text: 'no copyright'
 twitter: 'lernmoment'
-github: 'suchja'
-medium: 'https://medium.com/@LernMoment'
+github: 'lernmoment'
+medium: 'medium.com/@LernMoment'
 
 # Admin Settings
 admin_name: 'Jan Suchotzki'
