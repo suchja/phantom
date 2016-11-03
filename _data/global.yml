@@ -1,14 +1,14 @@
 # Site Settings
-title: "Hello. I'm Jami Gibbs."
-description: "I'm a software developer and designer from Chicago creating useful things for the web."
-url: 'http://jamigibbs.github.io/phantom/' # the base hostname & protocol for your site
+title: "LernMoment - Die Akademie"
+description: "Vom Anfänger zum Profi mit Übungen, Tutorials, Kurse und Trainings."
+url: 'https://suchja.github.io/' # the base hostname & protocol for your site
 nav: "true"
-footer_text: '© 2016 Jami Gibbs'
-twitter: 'jamigibbs'
-github: 'jamigibbs'
-medium: 'blog.jamigibbs.com'
+footer_text: 'no copyright'
+twitter: 'lernmoment'
+github: 'suchja'
+medium: 'https://medium.com/@LernMoment'
 
 # Admin Settings
-admin_name: 'Jami Gibbs'
-admin_email: 'jami0821@gmail.com'
+admin_name: 'Jan Suchotzki'
+admin_email: 'jan@lernmoment.de'
 google_analytics: "UA-9999999-99" # Update with your own tracking ID
